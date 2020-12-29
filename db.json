@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Brown pelican","category":"Maroon"},
+{"id":2,"name":"Heron, yellow-crowned night","category":"Khaki"},
+{"id":3,"name":"Cougar","category":"Red"},
+{"id":4,"name":"White-faced whistling duck","category":"Aquamarine"},
+{"id":5,"name":"European wild cat","category":"Goldenrod"},
+{"id":6,"name":"White rhinoceros","category":"Turquoise"},
+{"id":7,"name":"Tortoise, radiated","category":"Turquoise"},
+{"id":8,"name":"Quoll, eastern","category":"Yellow"},
+{"id":9,"name":"Flicker, campo","category":"Red"},
+{"id":10,"name":"Seal, northern fur","category":"Puce"},
+{"id":11,"name":"Blue racer","category":"Khaki"},
+{"id":12,"name":"Quoll, spotted-tailed","category":"Green"},
+{"id":13,"name":"Civet cat","category":"Violet"},
+{"id":14,"name":"Armadillo, nine-banded","category":"Turquoise"},
+{"id":15,"name":"Badger, honey","category":"Goldenrod"},
+{"id":16,"name":"Squirrel, palm","category":"Turquoise"},
+{"id":17,"name":"Lion, steller sea","category":"Red"},
+{"id":18,"name":"Plover, blacksmith","category":"Purple"},
+{"id":19,"name":"Brolga crane","category":"Yellow"},
+{"id":20,"name":"Capuchin, brown","category":"Purple"}
+]
+}
